@@ -1,4 +1,4 @@
 import DemoComp from './lib/component/demoComp'
-import  './lib/component/style/globalStyling'
+import  './component/style/globalStyling'
 
 export {DemoComp};
